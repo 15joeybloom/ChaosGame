@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=pointA\ pointB\ n\ d
+comment0.target=Midpoint(java.awt.geom.Rectangle2D.Double,\ java.awt.geom.Rectangle2D.Double,\ int,\ int)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Midpoint.\ Sets\ the\ \r\n\ coordinates\ for\ the\ top-left\ corner\ of\ the\ new\ rectangle\ \r\n\ somewhere\ between\ the\ top-left\ corners\ of\ the\ two\ parameter\ \r\n\ rectangles,\ depending\ on\ the\ distance\ factor.\ If\ the\ \r\n\ distance\ factor\ is\ greater\ than\ 1/2,\ the\ resulting\ Midpoint\r\n\ will\ be\ closer\ to\ pointA;\ if\ the\ distance\ factor\ is\ less\r\n\ than\ 1/2,\ the\ resulting\ Midpoint\ will\ be\ closer\ to\ pointB\r\n\ \r\n\ @param\ \ pointA\ \ The\ first\ of\ the\ points\ that\ the\ Midpoint\ is\ between\r\n\ @param\ \ pointB\ \ The\ second\ of\ the\ points\ that\ the\ Midpoint\ is\ between\r\n\ @param\ \ n\ \ The\ numerator\ of\ the\ distance\ factor\r\n\ @param\ \ d\ \ The\ denominator\ of\ the\ distance\ factor\r\n
+numComments=1

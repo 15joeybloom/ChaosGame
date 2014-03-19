@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=s\ numerator\ denominator
+comment0.target=TriangleComponent(int,\ int,\ int)
+comment0.text=\r\n\ Constructs\ a\ TriangleComponent\ with\ the\ given\ polygon,\ and\ distance\ factor.\r\n\r\n\ @param\ \ s\ \ The\ number\ of\ sides\ on\ the\ polygon\r\n\ @param\ \ numerator\ \ The\ numerator\ of\ the\ distance\ factor\r\n\ @param\ \ denominator\ \ The\ denominator\ of\ the\ distance\ factor\r\n
+comment1.params=g
+comment1.target=void\ paintComponent(java.awt.Graphics)
+comment1.text=\r\n\ Draws\ a\ Sierpinski\ Triangle\ on\ the\ Component\r\n\ \r\n\ @param\ \ g\ \ \ Graphics\ object\r\n
+numComments=2

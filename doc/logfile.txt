@@ -1,0 +1,32 @@
+Class documentation
+<---- javadoc command: ---->
+C:\Program Files (x86)\Java\jdk1.7.0_02\bin\javadoc.exe
+-author
+-version
+-nodeprecated
+-package
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+1.7
+-classpath
+C:\Program Files (x86)\BlueJ\lib\bluejcore.jar;C:\Program Files (x86)\BlueJ\lib\junit-4.8.2.jar;C:\Users\Joey\Desktop\Java\ChaosGameTester
+-d
+C:\Users\Joey\Desktop\Java\ChaosGameTester\doc
+-encoding
+UTF-8
+-charset
+UTF-8
+-docletpath
+C:\Program Files (x86)\BlueJ\lib\bjdoclet.jar
+-doclet
+bluej.doclet.doclets.formats.html.HtmlDoclet
+C:\Users\Joey\Desktop\Java\ChaosGameTester\Midpoint.java
+<---- end of javadoc command ---->
+Loading source file C:\Users\Joey\Desktop\Java\ChaosGameTester\Midpoint.java...
+C:\Users\Joey\Desktop\Java\ChaosGameTester\Midpoint.java:13: error: ';' expected
+    private int numerator
+                         ^
+1 error
